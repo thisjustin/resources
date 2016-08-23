@@ -30,6 +30,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 ## Basics
 * [Official SASS Docs](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
 * [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [What are EMs?](http://zellwk.com/blog/media-query-units/) - we'll be using `em` units (instead of `px`) almost everywhere so become familiar with how they work and why we'd use them
 
 ## Style / Syntax
 * when in doubt follow the [AirBnb CSS / SASS Styleguide](https://github.com/airbnb/css) which the exception that we'll always use 4 spaces as indentation *everywhere*
