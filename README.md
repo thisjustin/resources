@@ -1,6 +1,14 @@
 # Resources
 Resources for HTML / CSS / SASS / JS / Python / Django
 
+# Starting from Zero / Little Programming Experience
+[CodeSchool](http://codeschool.com) is an excellent all around resource ($29/month as of this writing) with PDFs, video lectures and interactive quizes. Here's my suggested foundational courses:
+* [Git / Github](https://www.codeschool.com/learn/git) - do all the courses there. It won't seem important at first but once you get going using Git for verson control is going to make life so much easier for you. And once you get some other skills under your belt you're going to want to be checking out other people's code on github and pulling it down and trying it out, etc. This is also a gentle introduction to becoming comfortable using the command line which will quickly become your new best friend.
+* [HTML / CSS](https://www.codeschool.com/learn/html-css) - do all HTML, CSS and SASS courses (skip bootstrap, SVG and design unless you want more). After completing these you should feel comfortable making a simple web page and viewing it in a browser as well as viewing source in the web inspector and modifying code on other sites.
+* [Javascript](https://www.codeschool.com/learn/javascript) - do all Javascript and jQuery course (skip front end frameworks, NodeJS and Coffeescript unless you want more (then check out Node first)). After this you should feel comfortable adding some JS to your HTML pages to build out dynamic elements and should know how to select any element in the DOM via jQuery (or regular JS) - and you should actually know what DOM stands for and how it works. You should be able to open up the JS console in web inspector and really mess with sites now.
+* [Python / Django](https://www.codeschool.com/learn/python) - do all courses here. At the end of this you should be able to dive into the official [Django tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/) and begin reallying getting into things.
+* [BASH](http://guide.bash.academy/) - do chapters 1 and 2 (rest is bonus if you really want to dive in). This is to get you familiar with the command line and basic BASH scripting. This comes in handy not only when developing locally but when setting up and configuring servers (which will likely be running Ubuntu linux which you'll interact with entirely via command line).
+
 # General
 * [Pycharm (free community edition)](https://www.jetbrains.com/pycharm/download/) Best python IDE (fully support all front end coding as well)
 * [Git / Github](http://github.com) Become familiar with git and github. You should be comfortable forking a repo, cloning it locally, working on feature branches for each task you work on, pushing up to your forked repo, rebasing and making pull requests
