@@ -11,8 +11,21 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 	* [Postgresql](https://pgexercises.com/questions/basic/) - do at least "basic" and "joins and subqueries" sections - this will be a good test to make sure you absorbed everything from the code school course and will introduce some of the differences in Postgresql vs other SQL languages (we'll be using Postgres with Django)
 * [BASH](http://guide.bash.academy/) - do chapters 1 and 2 (rest is bonus if you really want to dive in). This is to get you familiar with the command line and basic BASH scripting. This comes in handy not only when developing locally but when setting up and configuring servers (which will likely be running Ubuntu linux which you'll interact with entirely via command line).
 
+
+# Computer Science
+* Friendly introduction to [Data Structures / Algorithms / Big-O Notation](https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js) with examples in JS
+* [The Computer Science Handbook](http://www.thecshandbook.com/)
+* [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
+
+
+# Security
+* [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Definitive Guide to Form Based Authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+
+
 # General
 * [Pycharm (free community edition)](https://www.jetbrains.com/pycharm/download/) Best python IDE (fully support all front end coding as well)
+* [Homebrew](http://brew.sh/) OSX package manager
 * [Git / Github](http://github.com) Become familiar with git and github. You should be comfortable forking a repo, cloning it locally, working on feature branches for each task you work on, pushing up to your forked repo, rebasing and making pull requests
 	* [Intro to git](https://try.github.io/levels/1/challenges/1)
 	* [Official Git docs](https://git-scm.com/documentation)
