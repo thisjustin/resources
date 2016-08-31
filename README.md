@@ -21,6 +21,8 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 # Security
 * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [Definitive Guide to Form Based Authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+* [Big list of free security e-books](https://github.com/Hack-with-Github/Free-Security-eBooks)
+* [Mozilla Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 
 
 # General
