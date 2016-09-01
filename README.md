@@ -105,6 +105,14 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [Official Django Docs](https://docs.djangoproject.com/en/1.10/) Bookmark this as you'll be coming back to it all the time. Each section of django from models to views to the admin panel has a section here with basic details and advanced info as well (always note what version of docs you're viewing vs what we're using in a project as things can change)
 * Work through the [official tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/) to get a feel for the major pieces of django and how they work together
 
+
+## ORM / DB
+* Note that the django ORM is lazy by default and it can create some pretty unperformant queries at times. Be sure to understand things like `prefetch_related` and how they can work to make your queries more efficient: [Making Queries in Django](https://docs.djangoproject.com/en/1.10/topics/db/queries/#making-queries)
+* for more complex queries see [`Q` queries in django](https://docs.djangoproject.com/en/1.10/topics/db/queries/#complex-lookups-with-q)
+* for using values of queries in place (like incrementing a value) see [`F` expressions](https://docs.djangoproject.com/en/1.10/ref/models/expressions/#django.db.models.F)
+* And when the above won't cut it you can always [drop down to raw sql in django](https://docs.djangoproject.com/en/1.10/topics/db/sql/)
+
+
 ## Cookiecutter Django
 * Once you get the hang of django from the above tutorials and begin to wonder "what's the best practice for X?" look here. Created by one of the core django developers, this is a quick and easy way to get a django project started with a bunch of best practice settings and configurations already in place [Cookiecutter Django](https://github.com/pydanny/cookiecutter-django) - try making a new project with it and explore the settings and structure - there's a ton of really helpful comments in there to help you understand why they made the choices they did. 
 
