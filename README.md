@@ -12,6 +12,21 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [BASH](http://guide.bash.academy/) - do chapters 1 and 2 (rest is bonus if you really want to dive in). This is to get you familiar with the command line and basic BASH scripting. This comes in handy not only when developing locally but when setting up and configuring servers (which will likely be running Ubuntu linux which you'll interact with entirely via command line).
 
 
+# User Experience (UX)
+* General overview on UX - [Don't make me think](https://www.amazon.com/dp/0321965515/ref=cm_sw_r_cp_api_VSdZxb19CJ2BY) also [Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292/ref=sr_1_1?ie=UTF8&qid=1473017556&sr=8-1&keywords=rocket+surgery+made+easy)
+* Excellent read on the thinking behind the behavioral research going on about why people do what they do on the web - [Grouped](https://www.amazon.com/Grouped-Groups-Friends-Influence-Paperback/dp/B00FKY3OMC/ref=sr_1_2?s=books&ie=UTF8&qid=1473018109&sr=1-2&keywords=grouped+paul+adams)
+* Examples
+	* [Google Material Design](https://material.google.com/#) - Google goes to great lengths to explain the thought and philosophy behind material which is a great example of applied UX
+	* [Mailchimp UX Style Guide](https://ux.mailchimp.com/patterns/) Lots of patterns and styles across nearly every aspect of a site
+	* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) an expression of Apple's design opinons as well as practical UX guidelines for mobile interfaces (for exmaple - how big should a tapable button be, etc)
+	* [Bootstrap](http://getbootstrap.com/) it's turned into a major front end library and love it or hate it (plenty of people are on both sides) there's some good examples in here and it certainly has examples of nearly every type of interface a site would have in there
+* People to follow
+	* [Jared Spool](https://twitter.com/jmspool?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+	* [Luke W](https://twitter.com/lukew)
+	* [Whitney Hess](https://whitneyhess.com/)
+	* [Paul Adams](https://twitter.com/padday)
+
+
 # Computer Science
 * Friendly introduction to [Data Structures / Algorithms / Big-O Notation](https://github.com/thejameskyle/itsy-bitsy-data-structures/blob/master/itsy-bitsy-data-structures.js) with examples in JS
 * [The Computer Science Handbook](http://www.thecshandbook.com/)
