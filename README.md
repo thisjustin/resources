@@ -48,6 +48,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 	* [Intro to git](https://try.github.io/levels/1/challenges/1)
 	* [Official Git docs](https://git-scm.com/documentation)
 * [Gulp](http://gulpjs.com/) front end build system
+* [AWS Guide](https://github.com/open-guides/og-aws) a friendlier version of docs for AWS
 
 
 # HTML
