@@ -47,6 +47,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [Git / Github](http://github.com) Become familiar with git and github. You should be comfortable forking a repo, cloning it locally, working on feature branches for each task you work on, pushing up to your forked repo, rebasing and making pull requests
 	* [Intro to git](https://try.github.io/levels/1/challenges/1)
 	* [Official Git docs](https://git-scm.com/documentation)
+	* [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough) we'll be rebasing and you should understand the difference
 * [Gulp](http://gulpjs.com/) front end build system
 * [AWS Guide](https://github.com/open-guides/og-aws) a friendlier version of docs for AWS
 
