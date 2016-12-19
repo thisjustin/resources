@@ -1,6 +1,11 @@
 # Resources
 Resources for HTML / CSS / SASS / JS / Python / Django
 
+# How do webpages work?
+* first things first - [read these 20 steps for an overview of what happens when you type a URL into your browser](http://stackoverflow.com/a/35645545/1100960)
+* this is not beginner material but if you really want to know how the sausage is made read [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+
+
 # Starting from Zero / Little Programming Experience
 [CodeSchool](http://codeschool.com) is an excellent all around resource ($29/month as of this writing) with PDFs, video lectures and interactive quizes. Here's my suggested foundational courses:
 * [Git / Github](https://www.codeschool.com/learn/git) - do all the courses here except for Mastering Github - just do level 1 (fork based workflow is what we use so it's essential that you get this part) and the rest are optional. It won't seem important at first but once you get going using Git for verson control is going to make life so much easier for you. And once you get some other skills under your belt you're going to want to be checking out other people's code on github and pulling it down and trying it out, etc. This is also a gentle introduction to becoming comfortable using the command line which will quickly become your new best friend.
