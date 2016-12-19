@@ -55,6 +55,8 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 	* [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/workflow-walkthrough) we'll be rebasing and you should understand the difference
 * [Gulp](http://gulpjs.com/) front end build system
 * [AWS Guide](https://github.com/open-guides/og-aws) a friendlier version of docs for AWS
+* [Hello World in every programming language](https://github.com/leachim6/hello-world) - a little taste of what other languages look like
+* [Fizz Buzz in every programming language](https://github.com/zenware/FizzBuzz) - a little more in-depth look at other languages ([what is fizz buzz](https://blog.codinghorror.com/why-cant-programmers-program/))
 
 
 # HTML
