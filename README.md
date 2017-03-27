@@ -114,6 +114,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * "Magic Methods" e.g. `__init__`, `__new__`, etc (have double underscores by convention) here's a list of all the major ones and explaination of them: [Python Magic Methods](http://www.rafekettler.com/magicmethods.html)
 * [Anonymous functions](http://www.diveintopython.net/power_of_introspection/lambda_functions.html) (lambda functions) 
 * [Python 2 vs 3](https://wiki.python.org/moin/Python2orPython3)
+* [PDB (python debugger) tutorial](https://github.com/spiside/pdb-tutorial)
 
 ## Style / Syntax
 * [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/) a good primer on the philosophies behind python
