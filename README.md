@@ -120,6 +120,9 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/) a good primer on the philosophies behind python
 * Python's official style guide [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 
+## Testing
+* [Obey the testing goat](http://www.obeythetestinggoat.com/book/part1.harry.html)
+
 ## Misc
 * [List of free python / django books](http://pythonbooks.revolunet.com/)
 
