@@ -46,6 +46,9 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [Mozilla Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
 
 
+# Performance
+* [Designing for Performance](http://designingforperformance.com/)
+
 # General
 * [Pycharm (free community edition)](https://www.jetbrains.com/pycharm/download/) Best python IDE (fully support all front end coding as well)
 * [Homebrew](http://brew.sh/) OSX package manager
