@@ -60,6 +60,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [AWS Guide](https://github.com/open-guides/og-aws) a friendlier version of docs for AWS
 * [Hello World in every programming language](https://github.com/leachim6/hello-world) - a little taste of what other languages look like
 * [Fizz Buzz in every programming language](https://github.com/zenware/FizzBuzz) - a little more in-depth look at other languages ([what is fizz buzz](https://blog.codinghorror.com/why-cant-programmers-program/))
+* [Vimtutor](https://vimtutorplus.herokuapp.com/exercise/1) vim is a text editor you'll find on most linux and OSX distributions and it's good to at least be familiar with basic commands
 
 
 # HTML
