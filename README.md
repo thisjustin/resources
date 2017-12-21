@@ -113,6 +113,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 ## Basics
 * [Official Docs](https://docs.python.org/3/) (make sure to choose the version of python 2.7 / 3.x as appropriate)
 * [Using pip](https://docs.python.org/3/installing/index.html) the official python package manager. Be comfortable looking up pacakges on [pypi](https://pypi.python.org/pypi)
+* [Python Crash Course](https://ehmatthes.github.io/pcc/cheatsheets/README.html) various cheatsheets to help you get up to speed
 * To isolate python environments between projects (so project A can have v1.5 of a package and project B can use v3.2, etc) see [Virtualenv](https://virtualenv.pypa.io/en/stable/) and [Virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/) (also note that in python 3 `venv` is now a part of the language so if using python 3 see [venv](https://docs.python.org/3/library/venv.html))
 * [Classes in python](https://docs.python.org/2.7/tutorial/classes.html)
 * "Magic Methods" e.g. `__init__`, `__new__`, etc (have double underscores by convention) here's a list of all the major ones and explaination of them: [Python Magic Methods](http://www.rafekettler.com/magicmethods.html)
