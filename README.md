@@ -120,6 +120,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [Anonymous functions](http://www.diveintopython.net/power_of_introspection/lambda_functions.html) (lambda functions) 
 * [Python 2 vs 3](https://wiki.python.org/moin/Python2orPython3)
 * [PDB (python debugger) tutorial](https://github.com/spiside/pdb-tutorial)
+* [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html) touches on just about everything adjacent to and including python
 
 ## Style / Syntax
 * [The Zen of Python (PEP 20)](https://www.python.org/dev/peps/pep-0020/) a good primer on the philosophies behind python
