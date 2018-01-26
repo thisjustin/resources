@@ -62,6 +62,8 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [Fizz Buzz in every programming language](https://github.com/zenware/FizzBuzz) - a little more in-depth look at other languages ([what is fizz buzz](https://blog.codinghorror.com/why-cant-programmers-program/))
 * [Vimtutor](https://vimtutorplus.herokuapp.com/exercise/1) vim is a text editor you'll find on most linux and OSX distributions and it's good to at least be familiar with basic commands
 
+# Devops
+* [Ansible Tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
 
 # HTML
 
