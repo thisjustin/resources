@@ -25,6 +25,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 	* [Mailchimp UX Style Guide](https://ux.mailchimp.com/patterns/) Lots of patterns and styles across nearly every aspect of a site
 	* [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) an expression of Apple's design opinons as well as practical UX guidelines for mobile interfaces (for exmaple - how big should a tapable button be, etc)
 	* [Bootstrap](http://getbootstrap.com/) it's turned into a major front end library and love it or hate it (plenty of people are on both sides) there's some good examples in here and it certainly has examples of nearly every type of interface a site would have in there
+* [Sprint UX Podcast](https://www.sprintuxpodcast.com/)
 * People to follow
 	* [Jared Spool](https://twitter.com/jmspool?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 	* [Luke W](https://twitter.com/lukew)
@@ -64,6 +65,10 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 
 # Devops
 * [Ansible Tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
+
+# Data Science
+* [Data Quest](https://www.dataquest.io) - from beginner python through more advanced data science and statistics topics
+* [Data Skeptic Podcast](https://dataskeptic.com/)
 
 # HTML
 
