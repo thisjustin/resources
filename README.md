@@ -51,6 +51,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 * [Designing for Performance](http://designingforperformance.com/)
 
 # General
+* [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#1) Massive resource of all things front end
 * [Pycharm (free community edition)](https://www.jetbrains.com/pycharm/download/) Best python IDE (fully support all front end coding as well)
 * [Homebrew](http://brew.sh/) OSX package manager
 * [Git / Github](http://github.com) Become familiar with git and github. You should be comfortable forking a repo, cloning it locally, working on feature branches for each task you work on, pushing up to your forked repo, rebasing and making pull requests
@@ -65,6 +66,7 @@ Resources for HTML / CSS / SASS / JS / Python / Django
 
 # Devops
 * [Ansible Tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
+* [Ops School Curiculum](http://www.opsschool.org/)
 
 # Data Science
 * [Data Quest](https://www.dataquest.io) - from beginner python through more advanced data science and statistics topics
